@@ -4,7 +4,7 @@ Hi there! I'm **Suhan Kapoor**
  
 🎓 Final Year BCA Student at IITM, GGSIPU — Delhi  
 📊 Aspiring Data Analyst | Passionate about turning data into decisions  
-🔍 Currently deepening skills in Data Analysis, Data Science & Data Engineering  
+🔍 Currently deepening skills in Data Analysis & learning Data Science & Data Engineering  
 📬 How to reach me: [suhankapoor2211@gmail.com](mailto:suhankapoor2211@gmail.com)  
 ⚡ Fun fact: I find patterns in data the same way others find patterns in music
  
