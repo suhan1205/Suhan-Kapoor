@@ -52,7 +52,7 @@ Hi there! I'm **Suhan Kapoor**
 - Tools: **Python, SQL, Power BI, Pandas**
 ---
  
-### 🌐 [Language Detection System](https://github.com/yourusername/Language-Detection-System)
+### 🌐 [Language Detection System](https://github.com/suhan1205/DS---project)
 > ML-based multi-class text classifier — Group Project (2nd Year)
 - Multinomial Naive Bayes + TF-IDF Vectorization
 - Real-time language prediction from user input
