@@ -38,7 +38,7 @@ Hi there! I'm **Suhan Kapoor**
  
 ## 📂 Featured Projects:
  
-### 📊 [Sales Performance Dashboard](https://github.com/yourusername/Sales-Performance-Dashboard-Excel)
+### 📊 [Sales Performance Dashboard]([https://github.com/yourusername/Sales-Performance-Dashboard-Excel](https://github.com/suhan1205/Sales_performance_dashboard))
 > Excel-based analysis of 1,000+ gift delivery orders across Indian cities
 - Built pivot tables, slicers, and KPI dashboards
 - Revenue trend: ₹28,983 (April) → ₹62,662 (June)
