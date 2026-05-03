@@ -59,12 +59,4 @@ Hi there! I'm **Suhan Kapoor**
 - Tools: **Python, Scikit-learn, Seaborn, Matplotlib**
 ---
  
-## 📈 GitHub Stats:
- 
-![Suhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
- 
----
- 
 > *"Data is the new oil — I'm here to refine it."*
