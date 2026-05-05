@@ -45,7 +45,7 @@ Hi there! I'm **Suhan Kapoor**
 - Tools: **Microsoft Excel**
 ---
  
-### 🗄️ [Inventory & Vendor Management System](https://github.com/yourusername/Inventory-Vendor-Management)
+### 🗄️ [Vendor Performance Analysis](https://github.com/yourusername/Inventory-Vendor-Management)
 > Big Data project with 1 crore+ records across 6 relational tables
 - Python + SQLite + Power BI end-to-end pipeline
 - EDA, vendor summary extraction, interactive dashboards
