@@ -52,7 +52,7 @@ Hi there! I'm **Suhan Kapoor**
 > Big Data project with 1 crore+ records across 6 relational tables
 - Python + SQLite + Power BI end-to-end pipeline
 - EDA, vendor summary extraction, interactive dashboards
-- Tools: **Python, SQL, Power BI, Pandas**
+- Tools: **Python, SQL, Power BI, Pandas, Matplotlib, Seaborn
 
 ---
 
